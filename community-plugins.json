@@ -64223,5 +64223,12 @@
     "author": "zloyso",
     "description": "Store passwords in an encrypted vault with groups, search, a password generator, and sync across devices. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zloyso/passovik"
+  },  
+  {
+    "id": "ai-bridge",
+    "name": "AI Bridge",
+    "author": "Cesemess",
+    "description": "Seamless bridge connecting your Obsidian notes with Google NotebookLM and Gemini in the sidebar, with context menu actions, automatic notebook mapping, and Google search.",
+    "repo": "Cesemess/obsidian-ai-bridge"
   }
 ]
